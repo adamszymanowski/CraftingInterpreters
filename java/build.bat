@@ -1,4 +1,4 @@
 @echo off
 pushd com\lox
-javac Lox.java
+javac *.java
 popd
